@@ -12,3 +12,8 @@ ya que 5 si es mayor que 3 */
 while( 5 > 3) {
     console.log("Hola mundo")
 }
+
+
+do {
+    
+} while (condition);
